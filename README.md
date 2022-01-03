@@ -1,5 +1,5 @@
 # Anvar Nosirov
-*Aspiring Data Analyst | Blockchain and NFT Enthusiast
+* Aspiring Data Analyst | Blockchain and NFT Enthusiast
 
 # Education
 * Bachelors of Science (Computer Science), *University of People*, 2021-present
