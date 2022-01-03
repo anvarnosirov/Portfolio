@@ -1,12 +1,8 @@
-# Portfolio
-
-
 # Anvar Nosirov
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+*Aspiring Data Analyst | Blockchain and NFT Enthusiast
 
 # Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+* Bachelors of Science (Computer Science), *University of People*, 2021-present
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 ![alt text](executium-7cmA9ZL5dDk-unsplash.jpg)
