@@ -19,7 +19,7 @@ This project integrates various news source for performing sentiment analysis pe
 * **Output:** Sentiment of Cryptocurrency
 
 # [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
-![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
+![alt text](luke-chesser-JKUTrJ4vK00-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@lukechesser?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luke Chesser</a> on <a href="https://unsplash.com/s/photos/data-analysis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
